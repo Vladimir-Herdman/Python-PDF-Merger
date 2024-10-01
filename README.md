@@ -7,3 +7,7 @@ it in my terminal to simplify the process.
 Just running the file will open a window to choose the files to combine.
 Then the next window will be where you save the combined file.  The merged
 product has the files in the order they were chosen in the first window.
+
+Video for reference usage:
+
+https://github.com/user-attachments/assets/007d4a97-019c-4026-bdd0-7a3a78c2511e
