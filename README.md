@@ -11,3 +11,9 @@ product has the files in the order they were chosen in the first window.
 Video for reference usage:
 
 https://github.com/user-attachments/assets/007d4a97-019c-4026-bdd0-7a3a78c2511e
+
+Example Merge Outputs to terminal:
+
+![](Documentation_Images/mergeSuccess.png)
+
+![](Documentation_Images/mergeFail.png)
