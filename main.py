@@ -36,6 +36,7 @@ with open(path_to_save_pdf, 'wb') as combined_file:
 
 # for system output of success
 print(f"\033[32m\u001b[1m-----MERGE SUCCESS-----\033[0m\n"
+      f"\u001b[1mFiles merged (order): \033[0m{str([file.split('/')[-1] for file in filepaths])[1:-1]}\n"
       f"\u001b[1mMerged file name: \033[0m{path_to_save_pdf.split('/')[-1]}\n"
       f"\u001b[1mLocation: \033[0m{path_to_save_pdf}\n"
       f"\033[32m\u001b[1m-----------------------")
