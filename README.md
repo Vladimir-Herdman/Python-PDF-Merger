@@ -10,7 +10,7 @@ product has the files in the order they were chosen in the first window.
 
 Video for reference usage:
 
-https://github.com/user-attachments/assets/007d4a97-019c-4026-bdd0-7a3a78c2511e
+https://github.com/user-attachments/assets/a6804a2b-6924-4e8f-9856-d0d88440ec04
 
 Example Merge Outputs to terminal:
 
